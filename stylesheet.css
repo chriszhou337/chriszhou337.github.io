@@ -1,12 +1,5 @@
-body {
-    background-color:lightblue; 
-    text-align:center;
-}
 h1 {
-    color:blue; 
-    font-size:40px;
-}
-p {
-    font-family:verdana; 
-    font-size:20px;
+    color: blue;
+    font-size: 24px;
+    text-align: center;
 }
