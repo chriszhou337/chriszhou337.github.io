@@ -14,7 +14,7 @@ p {
     font-size: 20px;
 }
 
-warning {
+#warning {
     color: rgb(255, 0, 0);
     font-family: verdana;
     font-size: 28px;
