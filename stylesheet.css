@@ -8,6 +8,11 @@ h1 {
     text-align: center;
 }
 
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
 p {
     color: black;
     font-family: verdana;
@@ -35,7 +40,7 @@ li {
 }
 
 .highlight {
-    background-color: yellow;
+    background-color: navy;
     font-weight: bold;
     padding: 5px;
     border-radius: 5px;
